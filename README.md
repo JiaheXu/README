@@ -8,8 +8,6 @@ here are the tips for devloping on payloads. when you work with payloads you nee
 * 4. run your code
 * 4. close all the docker envs
 
-------
-
 # connection to pt-007
 you should connect your computer to pt-007 with an ethernet cable. For the network settings, disable ipv6 and dns in ipv4. Set the remaining params in ipv4 addresses as 10.3.1.20x (x = 0-9) and netmask as 255.255.0.0 and gateway 10.3.0.1
 
